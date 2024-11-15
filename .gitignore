@@ -15,7 +15,7 @@ node_modules
 
 # production
 /build
-/public/script.js
+# /public/script.js
 /geo
 /dist
 
